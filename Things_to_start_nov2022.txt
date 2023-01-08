@@ -1,0 +1,27 @@
+Things to start:
+
+https://learning.oreilly.com/videos/devops-complete-course/9781804615508/9781804615508-video2_10/
+https://docs.google.com/document/d/1CaHWcTAWTi7utD6O-fKH92rlrZNTcl3mVD9FL2pxPWc/edit
+
+
+
+I have below queries so that when I visit I can have the  information when I visit:
+
+1. usable carpet area  
+2. Your flat number
+3. Whether Cooperative society formed.
+4. Direction of house( east west / north south)
+5. Maintenance per month.
+6. Adequate water facilities in the society.
+8. Gmap location for me to visit.
+9. How many flats on each floor
+10. Clubhouse / swimming pool / gym given by the developer ?
+11: Year of possession
+12. total number of towers in your society
+13. your price expectations.
+14. Does kitchen / bed room / hall  have balcony
+
+Thanks
+
+
+Bhai@1234567890
